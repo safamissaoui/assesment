@@ -1,0 +1,7 @@
+.titres-principales{
+    background-color: aqua ; margiN: 1% 5% 1% 0% ; text-decoration: dashed 
+;display: flex; font-family:roboro;}
+.titres-principales li {margin-right: 30px;}
+.objet{font-style: italic;color: brown;inline-size: 100%;}
+.divers{color: black;font-style: italic ;}
+footer h3{ font-size: larger;color: aqua;}
